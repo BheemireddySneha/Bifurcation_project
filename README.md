@@ -3,15 +3,19 @@
 No.
 Script
 Purpose
+
 01
 chain_data.py
 make the table for chain list
+
 02
 compare_foldx_ppcheck.py
 compare FoldX and PPCheck results
+
 03
 compare_naccess.py
 cross-check interface, RBI and pRBI residues with NACCESS records and remove buried residues
+
 04
 consurf_data.py
 to cross-check cs results with other residues
